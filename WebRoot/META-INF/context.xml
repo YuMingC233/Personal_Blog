@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiResourceLocking="false" privileged="true" >
+    <Resource
+            name="jdbc/blogCon"
+            auth="Container"
+            type="javax.sql.DataSource"
+            maxTotal="500"
+            maxIdle="30"
+            maxWaitMillis="10000"
+            username="root"
+            password=""
+            driverClassName="com.mysql.jdbc.Driver"
+            url="jdbc:mysql://localhost:3306/YuMingBlog_db?useSSL=false&amp;useUnicode=true&amp;characterEncoding=utf-8"
+            removeAbandonedOnBorrow="true"
+            removeAbandonedOnMaintenance="true"
+            removeAbandonedTimeout="60"
+            logAbandoned="true" />
+</Context>
