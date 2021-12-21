@@ -1,7 +1,7 @@
 # 个人博客及后台管理系统
 > 该博客的前端皆为模板，后端则由本人开发。\
 > 博客部分的模板作者为 [zhaoyangkun](https://github.com/zhaoyangkun/Boundless-UI)。\
-> 后台部分的模板作者为 [ZengZK](https://github.com/Backl1ght)
+> 后台部分的模板作者为 [ZengZK](https://github.com/Backl1ght)\
 > 在此郑重感谢模板的开发作者！
 
 该项目的主要构成：\
