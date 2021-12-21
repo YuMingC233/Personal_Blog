@@ -4,11 +4,11 @@
 > 后台部分的模板作者为 [ZengZK](https://github.com/Backl1ght)\
 > 在此郑重感谢模板的开发作者！
 
-## 该项目的主要构成：
+### 该项目的主要构成：
 该项目后台主要由java开发，前端则大部分为开源模板构建，数据管理则使用MySql。
 
 
-## 该应用的功能：
+### 该应用的功能：
   - 主页：
   ![图片](https://user-images.githubusercontent.com/48896152/146912345-394f8f4f-82b1-4edc-b133-2fbf2a428bdb.png)
   - 标签分类浏览博客：
